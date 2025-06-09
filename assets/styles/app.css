@@ -1,3 +1,7 @@
-body {
-    background-color: skyblue;
-}
+@import "~bootstrap/css/bootstrap";
+@import './body.css';
+@import './section.css';
+@import './password-icon.css';
+@import './h.css';
+@import './header-image.css';
+@import './p.css'

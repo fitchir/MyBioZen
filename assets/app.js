@@ -7,4 +7,13 @@ import './bootstrap.js';
  */
 import './styles/app.css';
 
+    //import jquery
+    const $ = require('jquery');
+
+    //bootstrap
+    require('bootstrap');
+
+    //import js file 
+    import "./showAndHiddePasseword.js";
+
 console.log('This log comes from assets/app.js - welcome to AssetMapper! 🎉');
